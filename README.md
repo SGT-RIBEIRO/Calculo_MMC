@@ -1,2 +1,3 @@
-# Calculo_MMC
- Calculo Minimo Múltiplo Comum - Python
+# Cálculo_MMC
+
+MMC - Mínimo Múltiplo Comum - Python
